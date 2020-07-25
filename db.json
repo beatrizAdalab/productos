@@ -2,28 +2,18 @@
   "libros": [
     {
       "id": 15,
-      "nombre": "asdasd 333",
+      "nombre": "The Hobbit",
       "precio": "33"
     },
     {
-      "nombre": "jaslfdkjasdf",
-      "precio": "4444",
+      "nombre": "harry Potter 1",
+      "precio": "14",
       "id": 16
     },
     {
       "id": 17,
-      "nombre": "qwerqwerqwe",
-      "precio": "33"
-    },
-    {
-      "nombre": "sfgafgaf",
-      "precio": "678",
-      "id": 18
-    },
-    {
-      "nombre": "342342",
-      "precio": "24234",
-      "id": 19
+      "nombre": "El rpincipito",
+      "precio": "28"
     }
   ]
 }
